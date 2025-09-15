@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>WhatsApp Chat</title>
+  <meta http-equiv="refresh" content="0;url=https://wa.me/916232520452">
+  <script>
+    window.location.replace("https://wa.me/916232520452");
+  </script>
+</head>
+<body>
+  अगर redirect नहीं हुआ तो यहां क्लिक करो:
+  <a href="https://wa.me/916232520452">WhatsApp पर चैट</a>
+</body>
+</html>
